@@ -1,95 +1,119 @@
-````md
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=Dariel%20Capellán&fontSize=42&fontAlignY=35&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&color=0:000000,100:0D1117&text=DARIEL%20CAPELLÁN&fontColor=39FF14&fontSize=38&fontAlignY=35&animation=fadeIn"
     width="100%"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=700&duration=2200&center=true&vCenter=true&width=720&height=120&lines=%3E+whoami;%24+Dariel+Capell%C3%A1n;%3E+role;%24+Software+Developer;%3E+stack;%24+C%23+%7C+.NET+%7C+Node.js+%7C+NestJS+%7C+Next.js"
-    alt="Terminal typing animation"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=1800&pause=700&color=39FF14&background=0D111700&center=true&vCenter=true&width=750&lines=%E2%94%8C%E2%94%80%E2%94%80%28dariel%40github%29-%5B~%5D;%E2%94%94%E2%94%80%24+whoami;Dariel+Capell%C3%A1n;%E2%94%94%E2%94%80%24+cat+role.txt;Software+Developer+%7C+Backend+%26+Full-Stack;%E2%94%94%E2%94%80%24+echo+%24STACK;C%23+%7C+.NET+%7C+Node.js+%7C+NestJS+%7C+Next.js"
+    alt="Terminal animation"
   />
 </p>
 
----
+<br>
 
-### `> about_me`
+```console
+┌──(dariel㉿github)-[~]
+└─$ whoami
 
-```bash
-$ location
+Dariel Capellán
+Software Developer
 Dominican Republic
 
-$ role
-Software Developer
 
-$ focus
-Backend Development
-Full-Stack Development
-Web Applications
-REST APIs
-Software Architecture
+┌──(dariel㉿github)-[~/profile]
+└─$ cat about.txt
 
-$ currently
-Building web applications and strengthening my backend,
-software architecture and cloud development skills.
-````
+> Backend-focused Software Developer
+> Building web applications, APIs and scalable systems.
+> Interested in software architecture, cloud development
+> and modern backend technologies.
 
----
 
-### `> tech_stack`
+┌──(dariel㉿github)-[~/profile]
+└─$ cat focus.txt
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,nestjs,nextjs,react,ts,js,postgres,mysql,docker,git,github,vscode,visualstudio" />
-</p>
-
----
-
-### `> technologies`
-
-```text
-Backend       C# • ASP.NET Core • Node.js • NestJS •
-Frontend      React • Next.js • JavaScript • TypeScript
-Databases     PostgreSQL • SQL Server • MySQL
-ORM / Data    Prisma • Entity Framework
-DevOps        Docker • Git • GitHub
-Tools         VS Code • Visual Studio • Postman
+[+] Backend Development
+[+] REST API Development
+[+] Full-Stack Applications
+[+] Software Architecture
+[+] Databases
+[+] Cloud & Containers
 ```
 
----
-
-### `> github_stats`
+## `root@dariel:~# ./stack.sh`
 
 <p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=DarieC18&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
-    alt="Dariel's GitHub stats"
-  />
 
-<img
- height="170"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarieC18&layout=compact&theme=github_dark&hide_border=true"
- alt="Top Languages"
-/>
+<img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=39FF14"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=39FF14"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Visual_Studio-000000?style=for-the-badge&logo=visualstudio&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=39FF14"/>
 
 </p>
 
----
+<br>
 
-### `> streak`
+## `root@dariel:~# cat technologies.conf`
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=DarieC18&theme=github-dark-blue&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
+```yaml
+backend:
+  - C#
+  - ASP.NET Core
+  - Node.js
+  - NestJS
+  - Express
 
----
+frontend:
+  - React
+  - Next.js
+  - TypeScript
+  - JavaScript
 
-### `> contribution_snake`
+databases:
+  - PostgreSQL
+  - SQL Server
+  - MySQL
+
+data:
+  - Prisma
+  - Entity Framework
+
+devops:
+  - Docker
+  - Git
+  - GitHub
+
+tools:
+  - Visual Studio Code
+  - Visual Studio
+  - Postman
+```
+
+<br>
+
+## `root@dariel:~# ./contributions.sh`
 
 <p align="center">
   <img
@@ -98,36 +122,45 @@ Tools         VS Code • Visual Studio • Postman
   />
 </p>
 
----
+<br>
 
-### `> connect`
+## `root@dariel:~# ./connect.sh`
+
+```console
+[+] Establishing secure connection...
+
+STATUS     SERVICE        ADDRESS
+──────────────────────────────────────────────────────────
+ONLINE     LinkedIn       dariel-capellan-835a55378
+ONLINE     Email          darielcapellan@gmail.com
+
+[+] Connection endpoints ready.
+```
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dariel-capellan-835a55378/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Dariel%20Capellán-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
+    <img src="https://img.shields.io/badge/%3E_%20LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14"/>
   </a>
-
   <a href="mailto:darielcapellan@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Gmail-darielcapellan%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
+    <img src="https://img.shields.io/badge/%3E_%20EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=39FF14"/>
   </a>
 </p>
 
----
+<br>
 
-<p align="center">
-  <code>&gt; keep building_</code>
-</p>
+```console
+┌──(dariel㉿github)-[~]
+└─$ echo "Keep building."
+
+Keep building.
+
+┌──(dariel㉿github)-[~]
+└─$ █
+```
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:000000,100:0D1117"
     width="100%"
   />
 </p>
-```
