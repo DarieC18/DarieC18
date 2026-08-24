@@ -113,6 +113,81 @@ tools:
 
 <br>
 
+## `root@dariel:~# ls -la ./projects`
+
+```console
+┌──(dariel㉿github)-[~/projects]
+└─$ ls -la
+
+drwxr-xr-x  eVote/            → Plataforma de votación electrónica
+drwxr-xr-x  LinkUp/           → Red social full-stack
+drwxr-xr-x  Artemis-Banking/  → Sistema de gestión bancaria
+```
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🗳️ eVote</h3>
+      <p>Plataforma web de votación electrónica que gestiona de manera integral todo el ciclo electoral: registro, votación y conteo de resultados.</p>
+      <img src="https://img.shields.io/badge/C%23-000000?style=flat-square&logo=csharp&logoColor=39FF14"/>
+      <img src="https://img.shields.io/badge/.NET-000000?style=flat-square&logo=dotnet&logoColor=39FF14"/>
+      <br><br>
+      <a href="https://github.com/DarieC18/eVote">
+        <img src="https://img.shields.io/badge/%3E_%20VER_REPO-000000?style=for-the-badge&logoColor=39FF14"/>
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🔗 LinkUp</h3>
+      <p>Red social construida con ASP.NET Core MVC: registro y activación por correo, autenticación segura, gestión de perfil, publicaciones con texto/imágenes/YouTube y comentarios anidados.</p>
+      <img src="https://img.shields.io/badge/C%23-000000?style=flat-square&logo=csharp&logoColor=39FF14"/>
+      <img src="https://img.shields.io/badge/ASP.NET_Core-000000?style=flat-square&logo=dotnet&logoColor=39FF14"/>
+      <br><br>
+      <a href="https://github.com/DarieC18/LinkUp">
+        <img src="https://img.shields.io/badge/%3E_%20VER_REPO-000000?style=for-the-badge&logoColor=39FF14"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🏦 Artemis-Banking</h3>
+      <p>Sistema de gestión bancaria segura — módulo de contribución colaborativa sobre el proyecto base de <a href="https://github.com/JoelDev13/Artemis-Banking">JoelDev13</a>.</p>
+      <img src="https://img.shields.io/badge/C%23-000000?style=flat-square&logo=csharp&logoColor=39FF14"/>
+      <br><br>
+      <a href="https://github.com/DarieC18/Artemis-Banking">
+        <img src="https://img.shields.io/badge/%3E_%20VER_REPO-000000?style=for-the-badge&logoColor=39FF14"/>
+      </a>
+    </td>
+    <td width="50%">
+      <h3>➕ ¿Más proyectos?</h3>
+      <p>Explora el resto de mis repositorios públicos, incluyendo APIs, experimentos backend y proyectos en curso.</p>
+      <br><br>
+      <a href="https://github.com/DarieC18?tab=repositories">
+        <img src="https://img.shields.io/badge/%3E_%20VER_TODOS-000000?style=for-the-badge&logoColor=39FF14"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## `root@dariel:~# ./stats.sh`
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=DarieC18&show_icons=true&theme=dark&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&border_color=39FF14&hide_border=false"
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=DarieC18&theme=dark&background=0D1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&border=39FF14"
+    alt="GitHub Streak"
+  />
+</p>
+
+<br>
+
 ## `root@dariel:~# ./contributions.sh`
 
 <p align="center">
