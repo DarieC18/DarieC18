@@ -126,37 +126,21 @@ drwxr-xr-x  Artemis-Banking/  → Sistema de gestión bancaria
 
 <p align="center">
   <a href="https://github.com/DarieC18/eVote">
-    <img
-      src="./assets/cards/evote.svg"
-      alt="eVote"
-      width="49%"
-    />
+    <img src="./assets/cards/evote.svg" alt="eVote" width="48%" />
   </a>
-
+  &nbsp;
   <a href="https://github.com/DarieC18/LinkUp">
-    <img
-      src="./assets/cards/linkup.svg"
-      alt="LinkUp"
-      width="49%"
-    />
+    <img src="./assets/cards/linkup.svg" alt="LinkUp" width="48%" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/DarieC18/Artemis-Banking">
-    <img
-      src="./assets/cards/artemis-banking.svg"
-      alt="Artemis Banking"
-      width="49%"
-    />
+    <img src="./assets/cards/artemis-banking.svg" alt="Artemis Banking" width="48%" />
   </a>
-
+  &nbsp;
   <a href="https://github.com/DarieC18?tab=repositories">
-    <img
-      src="./assets/cards/more-projects.svg"
-      alt="More Projects"
-      width="49%"
-    />
+    <img src="./assets/cards/more-projects.svg" alt="More Projects" width="48%" />
   </a>
 </p>
 
