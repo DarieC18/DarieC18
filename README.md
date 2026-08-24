@@ -124,49 +124,41 @@ drwxr-xr-x  LinkUp/           → Red social full-stack
 drwxr-xr-x  Artemis-Banking/  → Sistema de gestión bancaria
 ```
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🗳️ eVote</h3>
-      <p>Plataforma web de votación electrónica que gestiona de manera integral todo el ciclo electoral: registro, votación y conteo de resultados.</p>
-      <img src="https://img.shields.io/badge/C%23-000000?style=flat-square&logo=csharp&logoColor=39FF14"/>
-      <img src="https://img.shields.io/badge/.NET-000000?style=flat-square&logo=dotnet&logoColor=39FF14"/>
-      <br><br>
-      <a href="https://github.com/DarieC18/eVote">
-        <img src="https://img.shields.io/badge/%3E_%20VER_REPO-000000?style=for-the-badge&logoColor=39FF14"/>
-      </a>
-    </td>
-    <td width="50%">
-      <h3>🔗 LinkUp</h3>
-      <p>Red social construida con ASP.NET Core MVC: registro y activación por correo, autenticación segura, gestión de perfil, publicaciones con texto/imágenes/YouTube y comentarios anidados.</p>
-      <img src="https://img.shields.io/badge/C%23-000000?style=flat-square&logo=csharp&logoColor=39FF14"/>
-      <img src="https://img.shields.io/badge/ASP.NET_Core-000000?style=flat-square&logo=dotnet&logoColor=39FF14"/>
-      <br><br>
-      <a href="https://github.com/DarieC18/LinkUp">
-        <img src="https://img.shields.io/badge/%3E_%20VER_REPO-000000?style=for-the-badge&logoColor=39FF14"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🏦 Artemis-Banking</h3>
-      <p>Sistema de gestión bancaria segura — módulo de contribución colaborativa sobre el proyecto base de <a href="https://github.com/JoelDev13/Artemis-Banking">JoelDev13</a>.</p>
-      <img src="https://img.shields.io/badge/C%23-000000?style=flat-square&logo=csharp&logoColor=39FF14"/>
-      <br><br>
-      <a href="https://github.com/DarieC18/Artemis-Banking">
-        <img src="https://img.shields.io/badge/%3E_%20VER_REPO-000000?style=for-the-badge&logoColor=39FF14"/>
-      </a>
-    </td>
-    <td width="50%">
-      <h3>➕ ¿Más proyectos?</h3>
-      <p>Explora el resto de mis repositorios públicos, incluyendo APIs, experimentos backend y proyectos en curso.</p>
-      <br><br>
-      <a href="https://github.com/DarieC18?tab=repositories">
-        <img src="https://img.shields.io/badge/%3E_%20VER_TODOS-000000?style=for-the-badge&logoColor=39FF14"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/DarieC18/eVote">
+    <img
+      src="./assets/cards/evote.svg"
+      alt="eVote"
+      width="49%"
+    />
+  </a>
+
+  <a href="https://github.com/DarieC18/LinkUp">
+    <img
+      src="./assets/cards/linkup.svg"
+      alt="LinkUp"
+      width="49%"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DarieC18/Artemis-Banking">
+    <img
+      src="./assets/cards/artemis-banking.svg"
+      alt="Artemis Banking"
+      width="49%"
+    />
+  </a>
+
+  <a href="https://github.com/DarieC18?tab=repositories">
+    <img
+      src="./assets/cards/more-projects.svg"
+      alt="More Projects"
+      width="49%"
+    />
+  </a>
+</p>
 
 <br>
 
