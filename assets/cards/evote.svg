@@ -1,0 +1,70 @@
+<svg width="720" height="300" viewBox="0 0 720 300" fill="none"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="720" y2="300">
+      <stop offset="0%" stop-color="#050806"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="2" y="2" width="716" height="296" rx="14"
+        fill="url(#bg)" stroke="#30363D" stroke-width="2"/>
+
+  <circle cx="28" cy="26" r="5" fill="#FF5F56"/>
+  <circle cx="46" cy="26" r="5" fill="#FFBD2E"/>
+  <circle cx="64" cy="26" r="5" fill="#27C93F"/>
+
+  <text x="90" y="31" fill="#8B949E"
+        font-family="Consolas, Courier New, monospace" font-size="13">
+    dariel@github:~/projects/evote
+  </text>
+
+  <line x1="20" y1="48" x2="700" y2="48" stroke="#21262D"/>
+
+  <text x="28" y="80" fill="#39FF14"
+        font-family="Consolas, Courier New, monospace" font-size="14">
+    dariel@github:~$ cat project.info
+  </text>
+
+  <text x="28" y="118" fill="#F0F6FC"
+        font-family="Consolas, Courier New, monospace"
+        font-size="25" font-weight="700">
+    EVOTE
+  </text>
+
+  <text x="28" y="150" fill="#8B949E"
+        font-family="Consolas, Courier New, monospace" font-size="14">
+    Plataforma web para gestión integral de elecciones.
+  </text>
+
+  <text x="28" y="172" fill="#8B949E"
+        font-family="Consolas, Courier New, monospace" font-size="14">
+    Registro, votación y conteo de resultados.
+  </text>
+
+  <rect x="28" y="202" width="68" height="30" rx="5"
+        fill="#000" stroke="#39FF14"/>
+  <text x="62" y="222" fill="#39FF14" text-anchor="middle"
+        font-family="Consolas, Courier New, monospace"
+        font-size="12" font-weight="700">C#</text>
+
+  <rect x="106" y="202" width="76" height="30" rx="5"
+        fill="#000" stroke="#39FF14"/>
+  <text x="144" y="222" fill="#39FF14" text-anchor="middle"
+        font-family="Consolas, Courier New, monospace"
+        font-size="12" font-weight="700">.NET</text>
+
+  <text x="28" y="268" fill="#39FF14"
+        font-family="Consolas, Courier New, monospace"
+        font-size="14" font-weight="700">
+    &gt;_ OPEN_REPOSITORY
+  </text>
+
+  <rect x="199" y="255" width="8" height="16" fill="#39FF14">
+    <animate attributeName="opacity"
+             values="1;0;1"
+             dur="1s"
+             repeatCount="indefinite"/>
+  </rect>
+</svg>
